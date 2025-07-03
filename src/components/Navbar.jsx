@@ -13,7 +13,7 @@ function Navbar() {
     <Link to='/' className='hover:underline  '>Home</Link>
     <Link to='/about'className='hover:underline'>About</Link>
     <Link to='/user' className='hover:underline'>User</Link>
-    <Link to='/userdetails'className='hover:underline'>UserDetails</Link>
+     
     </div>
     </div>
     </div>
